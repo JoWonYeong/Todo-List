@@ -1,7 +1,7 @@
 function App() {
   return (
     <div>
-      hello world
+      Todo List 만들기
     </div>
   );
 }
